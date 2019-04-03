@@ -1,0 +1,11 @@
+C:\Users\lsere\source\repos\Kr1(OP)\Kr1(OP)\bin\Debug\netcoreapp2.1\Kr1(OP).deps.json
+C:\Users\lsere\source\repos\Kr1(OP)\Kr1(OP)\bin\Debug\netcoreapp2.1\Kr1(OP).runtimeconfig.json
+C:\Users\lsere\source\repos\Kr1(OP)\Kr1(OP)\bin\Debug\netcoreapp2.1\Kr1(OP).runtimeconfig.dev.json
+C:\Users\lsere\source\repos\Kr1(OP)\Kr1(OP)\bin\Debug\netcoreapp2.1\Kr1(OP).dll
+C:\Users\lsere\source\repos\Kr1(OP)\Kr1(OP)\obj\Debug\netcoreapp2.1\Kr1(OP).csproj.CoreCompileInputs.cache
+C:\Users\lsere\source\repos\Kr1(OP)\Kr1(OP)\obj\Debug\netcoreapp2.1\Kr1(OP).AssemblyInfoInputs.cache
+C:\Users\lsere\source\repos\Kr1(OP)\Kr1(OP)\obj\Debug\netcoreapp2.1\Kr1(OP).AssemblyInfo.cs
+C:\Users\lsere\source\repos\Kr1(OP)\Kr1(OP)\bin\Debug\netcoreapp2.1\Kr1(OP).pdb
+C:\Users\lsere\source\repos\Kr1(OP)\Kr1(OP)\obj\Debug\netcoreapp2.1\Kr1(OP).csprojAssemblyReference.cache
+C:\Users\lsere\source\repos\Kr1(OP)\Kr1(OP)\obj\Debug\netcoreapp2.1\Kr1(OP).dll
+C:\Users\lsere\source\repos\Kr1(OP)\Kr1(OP)\obj\Debug\netcoreapp2.1\Kr1(OP).pdb
